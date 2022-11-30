@@ -1,0 +1,4 @@
+powerbill=int(input('Enter Power Bill'))
+numberofvolts=int(input('No of volts'))
+electricitybill=powerbill*numberofvolts
+print('Electricity Bill:',electricitybill)
